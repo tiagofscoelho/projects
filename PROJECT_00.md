@@ -19,9 +19,9 @@ In case you have something online to show, please, share here your URL
 
 # PROJECT DESCRIPTION 
 
-(Write a description here) 
+Write a description here including: 
 
-What does it do
-What's the audience 
-What technology will you use 
+ * What does it do
+ * What's the audience 
+ * What technology will you use 
 
