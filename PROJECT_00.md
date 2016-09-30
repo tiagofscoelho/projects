@@ -1,21 +1,23 @@
-= PROJECT NAME (change me) = 
+# PROJECT NAME (change me) 
 
-== TEAM MEMBERS == 
+## TEAM MEMBERS 
+
  * Name 1 (with github profile URL) 
  * Name 2 (with github profile URL)
 
-== REPO == 
+## REPO 
+
 This is not required, but if you want, you can share your project repo here 
 
-== URL == 
+## URL 
 
 In case you have something online to show, please, share here your URL 
 
-== PROJECT INTRO == 
+## PROJECT INTRO 
 
 (Write a short project intro here, just 10/20 words)
 
-== PROJECT DESCRIPTION ==  
+# PROJECT DESCRIPTION 
 
 (Write a description here) 
 
