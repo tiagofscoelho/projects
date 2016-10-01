@@ -1,5 +1,7 @@
 # Pixels Camp Challenge
 
+![Image](https://github.com/PixelsCamp/projects/blob/master/img/challenge.png?raw=true)
+
 The goal of the Pixels Camp challenge is to single out and reward creativity and innovation by providing participants with an opportunity to work together within a time frame of 48 hours to create something awesome.
 
 ## Eligibility
