@@ -37,6 +37,8 @@ To participate, you have to __register__ your project following the instructions
 
 These instructions are mandatory, and they should be done as soon as you enter Pixels Camp. __The deadline is on the second day (Oct 7th) until 2 pm.__
 
+Here's an example of what a project file [should look like][4].
+
 Any submissions without records will be discarded and will not be considered during pre-selection.
 
 Don’t take this lightly! You should be as accurate as possible. A bad project description is a handicap you don’t want to have.
@@ -96,3 +98,4 @@ __Good luck!__
 [1]: https://www.dropbox.com/request/DIAavRCTZFB7vHofyzuT
 [2]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
 [3]: https://twitter.com/pixelscamp
+[4]: https://github.com/PixelsCamp/projects/blob/master/nobull_bot.md
