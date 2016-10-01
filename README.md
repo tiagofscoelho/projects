@@ -91,6 +91,6 @@ __Good luck!__
  * __Submit your video__: Second day from 2 pm until 10 pm 
  * __Calls to jury interview__: Second day from 9 pm and third day in the morning 
 
-[1]: https://dropbox.com/
+[1]: https://www.dropbox.com/request/DIAavRCTZFB7vHofyzuT
 [2]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
 [3]: https://twitter.com/pixelscamp
