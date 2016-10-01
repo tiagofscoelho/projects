@@ -6,19 +6,32 @@ The goal of the Pixels Camp challenge is to single out and reward creativity and
 
 Any Pixels Camp approved participant can apply, as long as they are on the premises during those 48 hours (within reason – you are allowed to go out and get some air, sleep in a proper bed if you want to, etc.)
 
-Groups must up to 3 elements, all of whom must be Pixels Camp participants. Teams are advised to recruit elements with a wide diversity of interests that complement each other in their knowledge areas. The broader the skills in a team, the higher the probabilities to surprise the public and the jury with innovative ideas.
+Groups __must be larger than 2 elements__, all of whom must be Pixels Camp participants. Teams are advised to recruit elements with a wide diversity of interests that complement each other in their knowledge areas. The broader the skills in a team, the higher the probabilities to surprise the public and the jury with innovative ideas.
 
-### Participants can only join one project at a time.
+__Participants can only join one project at a time__.
 
-Ideas, concepts, and team organization are tasks that can be thought out before the event but the project itself should be developed during the 48 hour period. Although monitoring this is nearly impossible, the jury and other members will be actively looking for proof that the team has worked and developed their ideas on the site.
+Ideas, concepts, and team organization are tasks that can be thought out before the event, but the project itself should be developed during the 48 hour period. Although monitoring this is nearly impossible, the jury and other members will be actively looking for proof that the team has worked and developed their ideas on the site.
 
 ## Schedule
 
-The programming event will last exactly 48 hours, starting on the first day. You can see the full schedule [here][1].
+The programming event will last exactly 48 hours, starting on the first day. You can see the full schedule [here](https://pixels.camp/schedule/).
 
 ## Project Registration
 
-To participate, you have to register your project online. The instructions to do this will be released soon. This is mandatory and should be done as soon as you enter Pixels Camp. The deadline is on the second day until 2pm.
+To participate, you have to __register__ your project following the instructions bellow: 
+ * Log in on GitHub, for sure you already have an account :) 
+ * Fork this repo 
+ * __Duplicate__ the __PROJECT_00.md__ file and give it a name (this will be temporary, you can give it your project/team name) 
+ * Edit the new file
+   * __Change title__ with your project name 
+   * Fill out all the required information  
+ * __Do not delete the template file__ 
+ * When it is ready, submit a __pull request__ 
+ * If everything ok, it will be merged. 
+ * At this moment, a __number__ will be given to your team. During the merge, a __comment will be written with your team number__ and the file will be renamed to __"PROJECT_XX-project_name.md"__, where "XX" will be your number. 
+ * __This number should be used to identify your project with the jury__. 
+
+These instructions are mandatory, and they should be done as soon as you enter Pixels Camp. __The deadline is on the second day (Oct 7th) until 2 pm.__
 
 Any submissions without records will be discarded and will not be considered during pre-selection.
 
@@ -26,43 +39,54 @@ Don’t take this lightly! You should be as accurate as possible. A bad project 
 
 ## Selection Process
 
-All projects will undergo a pre-selection process via video review. As soon as you have your team ready and a clear idea of what your project will do, you must shoot a small video that summarizes the whole concept, purpose, and technologies used.
+All projects will undergo a pre-selection process via video review. On the second day, as soon as you have your team ready, a clear idea of what your project will do and some code done, you must shoot a small video that summarizes the whole concept, purpose, and technologies used.
 
-The video can’t be longer than 150 seconds (that's 2m 30s), and you must follow these topics:
+The video __can’t be longer than 180 seconds (that's 3m)__, and you must follow these topics:
 
-* What’s your project name and number
-* What’s the audience? Who will be using it and why.
-* How did the team meet? Met on Pixels Camp?
-* What are your team tech skills?
-* Did you start the project on Pixels Camp?
-* Describe the project. Bonus points if you already have something to show.
-* What technology did you use
-* How close are you to finishing the project?
-* Will you be able to finish it in time for the presentation?
+ * What's your project name and __number__
+ * Team presentation 
+    * How did the team meet? Did you meet at Pixels Camp? 
+    * What are the team tech skills?
+ * Project presentation 
+    * What does it do? 
+    * Did you start it on Pixels Camp? Was there anything done before? 
+    * What's the audience? Who will be using it and why? 
+    * Describe the project. Bonus points if you already have something to show
+    * What technology did you use? 
+    * How close are you to finish it? 
+    * Will you be able to finish it in time to the presentation? 
 
-We don't need a fancy video, don't waste time showing off your amazing video editing skills. A smartphone as a camera and good sound will do the trick. You can use whatever you want as long as you keep it within the 150s limit. Remember! The picture is important but the audio is probably more important at this stage.
+Name your video with your __project number (e.g., PROJECT_32.m4v)__, and you have to __upload__ it to a Pixels Camp Dropbox "File Requests." Pixels Camp organization will provide you the URL to do that. Pay attention to our Slack and Twitter. The URL will be announced there. 
+
+We don't need a fancy video, don't waste time showing off your amazing video editing skills. A smartphone as a camera and __good sound__ will do the trick. You can use whatever you want as long as you keep it within the 180s limit. Remember! The picture is important, but __the audio is probably more important at this stage__. 
+
+__You have to upload it from 2 pm until 10 pm on the second day (Oct 7th)__
 
 The goal of this pre-selection is to determine which teams will go on the main stage, since the overall Pixels Camp schedule is very tight and on-stage presentations are limited to 2 hours, and thus it might be impossible to have everyone demo their project live.
 
-Some projects may be called a second time for a live interview with the whole jury for further assessment.
+__Some projects__ may be called a second time for a live interview with the whole jury for further assessment. __This call will occur on the second day from 9 pm and on the morning of the third day__. Again, pay attention to our Slack and Twitter. 
 
-## Presentation
+Pre-selection results will be posted online at the Pixels Camp site and online tools at 11:00 on Saturday – we'll announce that posting primarily via Twitter and Slack, so make sure you're following @pixelscamp, and via our blog and other communication mechanisms we'll have on the site.
 
-Pre-selection results will be posted online at the Pixels Camp site and online tools at 11:00 on Saturday – we'll announce that posting primarily via Twitter and Slack, so make sure you're following @pixelscamp, and via our blog and other communication mechanisms we'll have on site.
-
-The selected projects will be presented on stage by a single representative team member, who'll have 90 seconds to pitch and/or demo your project.
+The selected projects will be presented on stage by a __single representative team member__, who'll have __90 seconds__ to pitch and/or demo your project.
 
 ## Awards
 
 After the presentations, the jury will bestow awards taking into consideration the following criteria:
 
-* Public vote
-* Degree of achievement
-* Originality and creativity
-* Technical competence
-* Innovation
-* Awesomeness
+ * Public vote
+ * Degree of achievement
+ * Originality and creativity
+ * Technical competence
+ * Innovation
+ * Awesomeness
 
-Good luck!
+__Good luck!__
 
-[1]: https://pixels.camp/schedule/
+### Schedule to have in mind 
+
+ * __Register your project__:  First day to Second day until 2 pm 
+ * __Submit your video__: Second day from 2 pm until 10 pm 
+ * __Calls to jury interview__: Second day from 9 pm and third day in the morning 
+
+
