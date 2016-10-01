@@ -8,6 +8,8 @@ Any Pixels Camp approved participant can apply, as long as they are on the premi
 
 Groups __must be larger than 2 elements__, all of whom must be Pixels Camp participants. Teams are advised to recruit elements with a wide diversity of interests that complement each other in their knowledge areas. The broader the skills in a team, the higher the probabilities to surprise the public and the jury with innovative ideas.
 
+To find your team members you can use [Slack][2] or [Twitter][3] to speak out to other participants, or you can meet them IRL on site when Pixels Camp starts.
+
 __Participants can only join one project at a time__.
 
 Ideas, concepts, and team organization are tasks that can be thought out before the event, but the project itself should be developed during the 48 hour period. Although monitoring this is nearly impossible, the jury and other members will be actively looking for proof that the team has worked and developed their ideas on the site.
@@ -19,16 +21,16 @@ The programming event will last exactly 48 hours, starting on the first day. You
 ## Project Registration
 
 To participate, you have to __register__ your project following the instructions bellow: 
- * Log in on GitHub, for sure you already have an account :) 
- * Fork this repo 
- * __Duplicate__ the __PROJECT_00.md__ file and give it a name (this will be temporary, you can give it your project/team name) 
- * Edit the new file
-   * __Change title__ with your project name 
-   * Fill out all the required information  
- * __Do not delete the template file__ 
- * When it is ready, submit a __pull request__ 
- * If everything ok, it will be merged. 
- * At this moment, a __number__ will be given to your team. During the merge, a __comment will be written with your team number__ and the file will be renamed to __"PROJECT_XX-project_name.md"__, where "XX" will be your number. 
+ * Log in on GitHub, for sure you already have an account.
+ * Fork this repo.
+ * __Duplicate__ the __project.md__ file and give it the name of your project (ex: crazy_chickens.md). For aesthetic, please use lower case letters only and underscores instead of spaces.
+ * Edit the new file.
+   * __Change title__ with your project name.
+   * Fill out all the required information.
+ * __Do not delete the template file__.
+ * When it's ready, submit a __pull request__ with your changes.
+ * If everything ok, it will be merged. If not, you'll get a comment from us.
+ * At this moment, a __number__ will be given to your team. During the merge, a __comment will be written with your team number__ and the file will be renamed to __"XXX-project_name.md"__, where "XXX" will be your number. 
  * __This number should be used to identify your project with the jury__. 
 
 These instructions are mandatory, and they should be done as soon as you enter Pixels Camp. __The deadline is on the second day (Oct 7th) until 2 pm.__
@@ -37,7 +39,7 @@ Any submissions without records will be discarded and will not be considered dur
 
 Don’t take this lightly! You should be as accurate as possible. A bad project description is a handicap you don’t want to have.
 
-## Selection Process
+## Selection Process and the obligatory video
 
 All projects will undergo a pre-selection process via video review. On the second day, as soon as you have your team ready, a clear idea of what your project will do and some code done, you must shoot a small video that summarizes the whole concept, purpose, and technologies used.
 
@@ -56,7 +58,7 @@ The video __can’t be longer than 180 seconds (that's 3m)__, and you must follo
     * How close are you to finish it? 
     * Will you be able to finish it in time to the presentation? 
 
-Name your video with your __project number (e.g., PROJECT_32.m4v)__, and you have to __upload__ it to a Pixels Camp Dropbox "File Requests." Pixels Camp organization will provide you the URL to do that. Pay attention to our Slack and Twitter. The URL will be announced there. 
+Name your video with your __project number (e.g., 32.m4v)__, and you have to __upload__ it to a Pixels Camp [Dropbox "File Requests." folder here][1].
 
 We don't need a fancy video, don't waste time showing off your amazing video editing skills. A smartphone as a camera and __good sound__ will do the trick. You can use whatever you want as long as you keep it within the 180s limit. Remember! The picture is important, but __the audio is probably more important at this stage__. 
 
@@ -89,4 +91,6 @@ __Good luck!__
  * __Submit your video__: Second day from 2 pm until 10 pm 
  * __Calls to jury interview__: Second day from 9 pm and third day in the morning 
 
-
+[1]: https://dropbox.com/
+[2]: https://github.com/PixelsCamp/docs/blob/master/SLACK.md
+[3]: https://twitter.com/pixelscamp
