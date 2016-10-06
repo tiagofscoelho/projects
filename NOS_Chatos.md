@@ -24,6 +24,8 @@ NOS Chatos allows users to chat while watching their favorite channels.
 
 	Android app (for now) with .... Java.
 
+	[NOS API's](https://github.com/nosinovacao/pixelscamp)
+
 ## Team
 
  * [António Soares](https://pixels.camp/antoniocsoares)
