@@ -3,7 +3,7 @@
 ## Introduction
 
 NOS Chatos allows users to chat while watching their favorite channels.
-YOU WILL NEVER WATCH ALONE. 
+`YOU WILL NEVER WATCH ALONE.`
 
 ## Description
 
@@ -13,10 +13,12 @@ NOS Chatos allows users to chat while watching their favorite channels.
 Users can use our mobile or web application to interact with others while chat is being updated live on the TV.
 Users can use the public chat room to interact with other users or create private rooms and invite friends to talk about what they are watching. It's also possible to join any room without password. 
 
- * What's the audience
+ * What's the audience:
+
  Anyone with a NOS service.
 
- * What technology will you use
+ * What technology will you use:
+
  Backend with nodeJS and mongoDB.
  Android app (for now) with .... Java.
 
